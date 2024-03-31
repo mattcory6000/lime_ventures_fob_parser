@@ -16,7 +16,7 @@ The Lime Ventures FOB Parser is a Python tool designed to transform FOB price li
 
 ### Installation
 1. Clone this repository or download the ZIP file.
-2. 2. Navigate to the project directory and install the required Python packages.
+2. Navigate to the project directory and install the required Python packages.
 
 ### Usage
 To use the FOB Parser, follow these steps:
